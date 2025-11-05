@@ -1,0 +1,15 @@
+{
+  "build": {
+    "builder": "nixpacks",
+    "config": {
+      "nixpacks": {
+        "providers": ["nodejs", "pnpm"]
+      }
+    }
+  },
+  "deploy": {
+    "numReplicas": 1,
+    "startCommand": "pnpm start",
+    "restartPolicyMaxRetries": 10
+  }
+}

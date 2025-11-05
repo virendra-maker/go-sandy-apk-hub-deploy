@@ -28,8 +28,10 @@
 - [x] Better visual feedback on interactive elements
 
 ## Deployment
-- [ ] Deploy to production hosting platform
-- [ ] Set up environment variables
-- [ ] Configure database
-- [ ] Test all functionality
+- [ ] Set up Gmail OAuth authentication
+- [ ] Configure database (MongoDB/Supabase)
+- [ ] Deploy to Vercel
+- [ ] Deploy to Netlify
+- [ ] Deploy to Railway
+- [ ] Test all functionality on all platforms
 - [ ] Monitor performance and errors
