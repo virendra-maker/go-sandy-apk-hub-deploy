@@ -5,8 +5,8 @@
   "framework": "vite",
   "outputDirectory": "dist",
   "env": {
-    "DATABASE_URL": "postgresql://user:password@host:5432/dbname",
-    "JWT_SECRET": "a-temporary-placeholder-secret-key",
+    "DATABASE_URL": "postgresql://postgres:1q2w3e4r5t@db.mtxwxsehsirbcxvibyvp.supabase.co:5432/postgres",
+    "JWT_SECRET": "b2542031c71348128e9a9094d4834719",
     "VITE_APP_ID": "go-sandy-apk-hub",
     "OAUTH_SERVER_URL": "https://api.manus.im",
     "VITE_OAUTH_PORTAL_URL": "https://portal.manus.im",
