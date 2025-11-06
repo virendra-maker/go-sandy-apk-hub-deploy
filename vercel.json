@@ -11,6 +11,6 @@
     "OAUTH_SERVER_URL": "https://api.manus.im",
     "VITE_OAUTH_PORTAL_URL": "https://portal.manus.im",
     "VITE_APP_TITLE": "Go Sandy APK Hub",
-    "VITE_APP_LOGO": "@vite_app_logo"
+    "VITE_APP_LOGO": "/logo.png"
   }
 }
